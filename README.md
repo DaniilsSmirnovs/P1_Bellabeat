@@ -28,7 +28,10 @@ Below is a detailed Scope of Work (SOW) outlining the project's purpose, major a
 
 #### Purpose: 
 
-The project goal is to identify current trends in smart device usage, and how these trends could be applied to Ballabeat customers and Ballabeat marketing strategy.  
+Define the problem you’re trying to solve 
+How can your insights drive business decisions?
+
+The goal of this project is to analyse trends in the usage of non-Bellabeat smart devices. It will identify the most common features that consumers engage with and explore the factors that drive this usage. Based on these findings, the project will assess how these features can be relevant to Bellabeat's target audience and provide recommendations for an effective marketing strategy.
 
 #### Major Project Activities:
 
