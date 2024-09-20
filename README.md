@@ -28,44 +28,42 @@ Below is a detailed Scope of Work (SOW) outlining the project's purpose, major a
 
 #### Purpose: 
 
-Define the problem you’re trying to solve 
-How can your insights drive business decisions?
-
-The goal of this project is to analyse trends in the usage of non-Bellabeat smart devices. It will identify the most common features that consumers engage with and explore the factors that drive this usage. Based on these findings, the project will assess how these features can be relevant to Bellabeat's target audience and provide recommendations for an effective marketing strategy.
+The goal of this project is to analyse trends in the usage of non-Bellabeat smart devices. It will identify the most common features consumers engage with and explore the factors influencing their usage. The project will then assess how these insights can be applied to Bellabeat's target audience, providing recommendations for a marketing strategy focused on one of Bellabeat's products.
 
 #### Major Project Activities:
 
-What are the major parts of this project? List out the high-level steps, activities, or stages of the project, and give a brief description for each. 
-
 | Activity | Description |
-|:--------------:|:---------------|
-| Row 1 Col 1  | Row 1 Col 2    |
-| Row 2 Col 1  | Create recommendations for alleviating each congestion hotspot. Estimate costs for each recommendation. Estimate amount ofcongestion relief. Rank suggestions by relief, divided by cost. |
+|:--------------|:---------------|
+| Data Collection  | Identify and gather relevant data on non-Bellabeat smart device usage from external sources. |
+| Identify Usage Trends of Non-Bellabeat Devices | Analyse the collected data to find trends and patterns in how consumers use smart devices from other brands. |
+| Create Marketing Strategy Recommendations | Develop recommendations based on the usage trends, tailored to Bellabeat’s target audience. Focus on improving or marketing a specific Bellabeat product. |
+| Create a Final Report | Compile findings, insights, and recommendations into a comprehensive final report to be presented to stakeholders. |
 
 #### Deliverables:
 
 A specific list of things that your project will deliver. 
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| Deliverable | Description/Details |
+|:----------|:----------|
+| Row 1 Col 1 | Row 1 Col 2 | 
+| Final Presentation | A presentation summarising the project’s findings, insights, and recommendations, to be delivered to key stakeholders. | 
 
 #### This project does not include:
 
 Specify the things that this project isn’t responsible for doing (out of scope).
 
-This project does not include:
-+ All the products offered by Ballabeat and focuses only on one product. 
-
 #### Schedule Overview:
 
-The expected schedule for the project.
+| Milestone | Expected Comletion day | Description/Details |
+|:----------|:----------|:---------|
+| Row 1 Col 1 | Row 1 Col 2 | |
 
 #### Estimated date for completion: 
 
 This is my “if all goes well and I have everything I need, this is when I’ll be done” date. 
 
-## Prepare 
+**October 13, 2024**
+
+## Data Collection 
 
 The next stage of the project is start collecting data. 
