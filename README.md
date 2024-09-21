@@ -48,7 +48,7 @@ A specific list of things that your project will deliver.
 | Smart Device Feature Dashboard | A dashboard summarising the key features of non-Bellabeat smart devices, along with a breakdown of factors influencing their usage. | 
 | Final Presentation | A presentation outlining the project’s findings, insights and marketing recommendations for a specific Bellabeat product, to be delivered to key stakeholders. | 
 
-#### The scope of this project does not include:
+#### The scope of this project does not include (Out-Of-Scope):
 
 + Implementing any solutions or recommendations. 
 
@@ -70,7 +70,9 @@ This is my estimated completion date, assuming all goes well and I have everythi
 
 ## Data Collection 
 
-The next stage of the project is start collecting data. 
+After communicating the Scope of Work (SOW) to the key stakeholders and confirming their approval to proceed with the project, I move on to the next stage: Data Collection. Urška Sršen directs me to a specific dataset - [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit). However, she also points some limitations of this dataset and encourages me to seek additional data to adress those limitations.
+
+First, I am going to review the Fitbit Fitness Tracker Data. 
 
 ## Data Analysis 
 
