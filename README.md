@@ -18,7 +18,7 @@ First, I need to identify the business task. To do so, I ask myself the followin
 
 The key stakeholders for this project are Urška Sršen (Cofounder & Chief Creative Officer), Sando Mur (Cofounder & Executive Team Member), and Bellabeat's Marketing Team. Their main objective is to expand the business and explore marketing strategies to reach a broader audience. Urška Sršen has asked me to focus specifically on one of Bellabeat's products. She wants me to investigate how consumers are using non-Bellabeat smart devices, with the goal of informing their marketing strategy. To support them, I aim to address the following:
 
-1. What are the key features and functionalities of non-Bellabeat smart devices that consumers use the most?
+1. What are the key trends in non-Bellabeat smart device usage?
 2. How do usage trends of non-Bellabeat devices align with Bellabeat's target audience?
 3. How could these trends help influence Bellabeat marketing strategy?
 
@@ -28,7 +28,7 @@ Below is a detailed Scope of Work (SOW) outlining the project's purpose, major a
 
 #### Purpose: 
 
-The goal of this project is to analyse trends in the usage of non-Bellabeat smart devices. It will identify the most common features consumers engage with and explore the factors influencing their usage. The project will then assess how these insights can be applied to Bellabeat's target audience, providing recommendations for a marketing strategy focused on one of Bellabeat's products.
+The goal of this project is to analyse trends in the usage of non-Bellabeat smart devices. It will identify how consumers engage with various features of their smart devices and explore the factors influencing their usage. The project will then assess how these insights can be applied to Bellabeat's target audience, providing recommendations for a marketing strategy focused on one of Bellabeat's products.
 
 #### Major Project Activities:
 
@@ -36,8 +36,8 @@ The goal of this project is to analyse trends in the usage of non-Bellabeat smar
 |:--------------|:---------------|
 | Data Collection  | Identify and gather relevant data on non-Bellabeat smart device usage from external sources. |
 | Identify Usage Trends of Non-Bellabeat Devices | Analyse the collected data to find trends and patterns in how consumers use smart devices from other brands. |
-| Create Marketing Strategy Recommendations | Develop recommendations based on the usage trends, tailored to Bellabeat’s target audience. Focus on improving or marketing a specific Bellabeat product. |
-| Create a Final Report | Compile findings, insights, and recommendations into a comprehensive final report to be presented to stakeholders. |
+| Create Marketing Strategy Recommendations | Based on the usage trends, create tailored recommendations for Bellabeat’s target audience, focusing on improving the marketing of a specific Bellabeat product. |
+| Create a Final Presentation | Compile findings, insights and marketing recommendations into a comprehensive final presentation to be presented to stakeholders. |
 
 #### Deliverables:
 
@@ -45,25 +45,35 @@ A specific list of things that your project will deliver.
 
 | Deliverable | Description/Details |
 |:----------|:----------|
-| Row 1 Col 1 | Row 1 Col 2 | 
-| Final Presentation | A presentation summarising the project’s findings, insights, and recommendations, to be delivered to key stakeholders. | 
+| Smart Device Feature Dashboard | A dashboard summarising the key features of non-Bellabeat smart devices, along with a breakdown of factors influencing their usage. | 
+| Final Presentation | A presentation outlining the project’s findings, insights and marketing recommendations for a specific Bellabeat product, to be delivered to key stakeholders. | 
 
-#### This project does not include:
+#### The scope of this project does not include:
 
-Specify the things that this project isn’t responsible for doing (out of scope).
++ Implementing any solutions or recommendations. 
 
 #### Schedule Overview:
 
-| Milestone | Expected Comletion day | Description/Details |
+| Milestone | Expected Completion day | Description/Details |
 |:----------|:----------|:---------|
-| Row 1 Col 1 | Row 1 Col 2 | |
+| Data Collection | September 27, 2024 | Research the available datasets and choose the most appropriate one(s) for the business task. |
+| Data Processing | October 2, 2024 | Clean and organise the selected dataset(s) to ensure accuracy, consistency, and readiness for analysis. |
+| Data Analysis | October 11, 2024 | Identify trends and patterns in the data. Create a Smart Device Feature Dashboard to visualise the findings. |
+| Marketing Strategy Recommendations Development | October 16, 2024 | Based on the data analysis, develop targeted marketing strategy recommendations tailored to Bellabeat’s audience. |
+| Final Presentation | October 23, 2024 | Present the project’s findings, insights, and marketing recommendations to key stakeholders. |
 
 #### Estimated date for completion: 
 
-This is my “if all goes well and I have everything I need, this is when I’ll be done” date. 
+This is my estimated completion date, assuming all goes well and I have everything I need. 
 
-**October 13, 2024**
+**October 23, 2024**
 
 ## Data Collection 
 
 The next stage of the project is start collecting data. 
+
+## Data Analysis 
+
+## Marketing Strategy Recommendations Development
+
+## Final Presentation
